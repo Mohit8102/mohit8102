@@ -113,18 +113,6 @@ const mohit = {
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohit8102&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit8102&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
