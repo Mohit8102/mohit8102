@@ -123,26 +123,6 @@ const mohit = {
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit8102&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
-# 🟣 Neon Commit Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit8102&bg_color=0D1117&color=00F7FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=MOHIT%27S%20NEON%20COMMIT%20GRAPH" alt="Neon Commit Graph"/>
-
-</div>
-
----
-
 # 📦 GitHub Overview
 
 <div align="center">
@@ -176,42 +156,6 @@ const mohit = {
 <img src="https://img.shields.io/github/stars/Mohit8102?style=for-the-badge&label=Stars&color=00F7FF" alt="Stars"/>
 
 <img src="https://img.shields.io/github/repos/Mohit8102?style=for-the-badge&label=Total%20Repos&color=FF00FF" alt="Total Repositories"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Mohit8102/blogApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit8102&repo=blogApp&theme=tokyonight&hide_border=true" alt="BlogApp"/>
-</a>
-
-<a href="https://github.com/Mohit8102/url_shortner">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit8102&repo=url_shortner&theme=tokyonight&hide_border=true" alt="URL Shortener"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mohit8102/Mohit8102/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohit8102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 
 </div>
 
