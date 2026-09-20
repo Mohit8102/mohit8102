@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohit8102&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mohit8102&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -21,82 +21,128 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Full-Stack Developer from India 🇮🇳** who enjoys building web applications, APIs, and real-world projects.
+I'm a passionate **Full-Stack Developer from India 🇮🇳** who enjoys building web applications, APIs and real-world projects.
 
 * 🔭 Currently working on **[BlogApp](https://github.com/Mohit8102/blogApp)**
 * 🌱 Currently learning **Java ☕**
 * 👯 Looking to collaborate on **BlogApp**
-* 🤝 Looking for help/contributors for **[URL Shortener](https://github.com/Mohit8102/url_shortner)**
+* 🤝 Looking for help with **[URL Shortener](https://github.com/Mohit8102/url_shortner)**
 * 💬 Ask me about **Full-Stack Development**
 * ⚡ Interested in **Web Development, Backend & APIs**
 * 🎯 Goal: **Become a better software developer every day**
 
 ---
 
-## 🚀 My Tech Stack
+# 🛠️ Tech Stack
 
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
 </p>
 
 ### 🗄️ Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,vscode" />
 </p>
 
-### 🔧 Other Technologies
+### 🔧 Other
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,angular,photoshop" />
+  <img src="https://skillicons.dev/icons?i=c,angular,photoshop" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🔗 URL Shortener
 
-A backend-focused URL shortening application built with **Node.js, Express & MongoDB**.
+A URL shortening application built using **Node.js, Express and MongoDB**.
 
-🔗 **[View Project](https://github.com/Mohit8102/url_shortner)**
+**Tech:** Node.js • Express • MongoDB
 
----
+<a href="https://github.com/Mohit8102/url_shortner">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 📝 BlogApp
 
-A full-stack blogging application where users can create and manage blog content.
+A full-stack blogging application for creating and managing blog content.
 
-🔗 **[View Project](https://github.com/Mohit8102/blogApp)**
+**Tech:** JavaScript • Node.js • MongoDB
 
----
+<a href="https://github.com/Mohit8102/blogApp">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🤖 Discord Bot
 
-A Discord bot project built using **Node.js and Discord.js**.
+A Discord bot built using **Node.js and Discord.js**.
 
-🔗 **[View Project](https://github.com/Mohit8102/discord_Bot)**
+**Tech:** Node.js • Discord.js
+
+<a href="https://github.com/Mohit8102/discord_Bot">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Projects
+
+Explore all my repositories and experiments on GitHub.
+
+<a href="https://github.com/Mohit8102?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Repositories-0e75b6?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit8102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit8102&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohit8102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit8102&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit8102&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit8102&theme=tokyonight&hide_border=true" />
@@ -104,15 +150,29 @@ A Discord bot project built using **Node.js and Discord.js**.
 
 ---
 
-## 📈 Contribution Graph
+# 📌 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit8102&theme=tokyo-night&hide_border=true" />
+
+<img src="https://img.shields.io/github/repo-count/Mohit8102?style=for-the-badge&logo=github&label=TOTAL%20REPOS" />
+
+<img src="https://img.shields.io/github/stars/Mohit8102?style=for-the-badge&logo=github&label=STARS%20GOT" />
+
+<img src="https://img.shields.io/github/followers/Mohit8102?style=for-the-badge&logo=github&label=FOLLOWERS" />
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📅 Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/Mohit8102" alt="Mohit's GitHub Contribution Graph" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mohit8102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
@@ -120,7 +180,15 @@ A Discord bot project built using **Node.js and Discord.js**.
 
 ---
 
-## 🤝 Let's Connect
+# 💻 Commit Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit8102&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -128,13 +196,19 @@ A Discord bot project built using **Node.js and Discord.js**.
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
+  
+
 <a href="https://instagram.com/__mohit82">
 <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
 
+  
+
 <a href="https://discord.gg/KgeCzhqZf">
 <img src="https://skillicons.dev/icons?i=discord" width="45"/>
 </a>
+
+  
 
 <a href="https://github.com/Mohit8102">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
@@ -144,7 +218,7 @@ A Discord bot project built using **Node.js and Discord.js**.
 
 ---
 
-## 💡 Developer Quote
+# 💡 Developer Quote
 
 <p align="center">
   <i>"First make it work. Then make it better."</i>
@@ -153,7 +227,7 @@ A Discord bot project built using **Node.js and Discord.js**.
 ---
 
 <h3 align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
+  ⭐ If you like my projects, consider giving them a star!
 </h3>
 
 <p align="center">
