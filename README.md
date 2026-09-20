@@ -1,298 +1,314 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ===================== HERO SECTION ===================== -->
 
-<h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-  Full-Stack Developer • Java Developer • Backend Enthusiast
-</h3>
+# 👋 Hey, I'm **Mohit Kumar**
 
-<p align="center">
-  <a href="https://github.com/Mohit8102">
-    <img src="https://komarev.com/ghpvc/?username=Mohit8102&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  </a>
-  <a href="https://github.com/Mohit8102?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mohit8102?label=Followers&style=flat-square&logo=github" />
-  </a>
-  <a href="https://github.com/Mohit8102?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Mohit8102?label=Stars&style=flat-square&logo=github" />
-  </a>
-</p>
+### 🚀 Full-Stack Developer • Java Learner • Builder
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+Learner;Node.js+%7C+React+Developer;MongoDB+%7C+Express+Developer;Building+Projects+%26+Learning+Every+Day" />
 
-<!-- ======================= ABOUT ======================= -->
+<br/>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<img src="https://komarev.com/ghpvc/?username=mohit8102&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
 
-<p align="center">
-  I'm a passionate Full-Stack Developer from India 🇮🇳
-  <br>
-  I enjoy building web applications, REST APIs and real-world projects.
-  <br>
-  Currently improving my Java and backend development skills.
-</p>
+</div>
 
-<br>
+---
 
-<p align="center">
+## 🧑‍💻 About Me
 
-🔭 Working on <b>BlogApp</b> <br>
-🌱 Learning <b>Java & Backend Development</b> <br>
-🤝 Open to <b>Collaboration & Open Source</b> <br>
-💬 Ask me about <b>Full-Stack Development</b>
+```javascript
+const mohit = {
+    role: "Full-Stack Developer",
+    location: "India 🇮🇳",
+    currentlyLearning: "Java ☕",
+    frontend: ["HTML", "CSS", "JavaScript", "React", "Bootstrap", "Tailwind"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+    tools: ["Git", "GitHub", "Postman"],
+    interests: [
+        "Full-Stack Development",
+        "Backend Development",
+        "AI & Cybersecurity",
+        "Building Real-World Projects"
+    ]
+};
+```
 
-</p>
+* 🔭 Currently working on **[BlogApp](https://github.com/Mohit8102/blogApp)**
+* 🌱 Currently learning **Java ☕**
+* 👯 Looking to collaborate on **BlogApp**
+* 🤝 Looking for help/contributors for **URL Shortener**
+* 💬 Ask me about **Full-Stack Development**
+* 🚀 Building projects with **React + Node.js + MongoDB**
+* 📂 All my projects → **[GitHub](https://github.com/Mohit8102)**
 
-<br>
+---
 
-<!-- ======================= TECH STACK ======================= -->
+# 🌐 Connect With Me
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
 
-<h3 align="center">Frontend</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-</p>
-
-<h3 align="center">Backend</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
-</p>
-
-<h3 align="center">Database & Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,vscode" />
-</p>
-
-<br>
-
-<!-- ======================= FEATURED PROJECTS ======================= -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td width="50%" align="center">
-
-<h3>🔗 URL Shortener</h3>
-
-<p>
-A URL shortening service built with
-<strong>Node.js, Express & MongoDB</strong>.
-</p>
-
-<a href="https://github.com/Mohit8102/url_shortner">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+<a href="https://www.linkedin.com/in/mohit-kumar-5a90703b0" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</td>
+<a href="https://instagram.com/__mohit82" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<td width="50%" align="center">
+<a href="https://discord.gg/KgeCzhqZf" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
-<h3>📝 BlogApp</h3>
+<a href="https://github.com/Mohit8102" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p>
-A full-stack blogging application for
-creating and managing blog content.
-</p>
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+### 💻 Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,c,html,css" />
+
+</div>
+
+### 🎨 Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+
+</div>
+
+### ⚙️ Backend & Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+</div>
+
+### 🛠️ Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohit8102&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit8102&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mohit8102&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit8102&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 🟣 Commit Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit8102&custom_title=⚡%20MOHIT'S%20NEON%20COMMIT%20GRAPH&bg_color=050505&color=00F7FF&line=FF00FF&point=FFFFFF&area_color=00F7FF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 📦 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohit8102&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohit8102&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohit8102&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohit8102&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+---
+
+# ⭐ GitHub Stats
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/Mohit8102?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0D1117" />
+
+<img src="https://img.shields.io/github/stars/Mohit8102?affiliations=OWNER&style=for-the-badge&color=FF00FF&labelColor=0D1117" />
+
+<img src="https://img.shields.io/github/repos/Mohit8102?style=for-the-badge&color=00F7FF&labelColor=0D1117" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
 
 <a href="https://github.com/Mohit8102/blogApp">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit8102&repo=blogApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF" />
+
 </a>
 
-</td>
+<a href="https://github.com/Mohit8102/url_shortner">
 
-</tr>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit8102&repo=url_shortner&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF" />
 
-<tr>
-
-<td width="50%" align="center">
-
-<h3>🤖 Discord Bot</h3>
-
-<p>
-A Discord bot built using
-<strong>Node.js & Discord.js</strong>.
-</p>
-
-<a href="https://github.com/Mohit8102/discord_Bot">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
-</td>
+</div>
 
-<td width="50%" align="center">
+---
 
-<h3>📂 More Projects</h3>
+# 🧩 My Development Journey
 
-<p>
-Explore my other projects and experiments
-on GitHub.
-</p>
+```text
+                 ┌─────────────────────┐
+                 │       MOHIT 🚀      │
+                 └──────────┬──────────┘
+                            │
+              ┌─────────────┴─────────────┐
+              │                           │
+         FRONTEND                     BACKEND
+              │                           │
+       React • HTML                 Node.js
+       CSS • JS                     Express
+       Bootstrap                    MongoDB
+       Tailwind                     REST API
+              │                           │
+              └─────────────┬─────────────┘
+                            │
+                       FULL STACK
+                            │
+                     ┌──────┴──────┐
+                     │             │
+                  GitHub         Java ☕
+                     │             │
+                     └──────┬──────┘
+                            │
+                         BUILD 🚀
+```
 
-<a href="https://github.com/Mohit8102?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20All%20Projects-0e75b6?style=for-the-badge&logo=github" />
-</a>
+---
 
-</td>
+# 💡 What I'm Building
 
-</tr>
-</table>
+<div align="center">
 
-<br>
-<br>
+### 📝 Blog Applications
 
-<!-- ======================= GITHUB ANALYTICS ======================= -->
+### 🔗 URL Shortener
 
-<h2 align="center">📊 GitHub Analytics</h2>
+### 🤖 AI & Automation Projects
 
-<br>
+### 🛡️ Cybersecurity Projects
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Mohit8102&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
-  />
-  &nbsp;&nbsp;
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit8102&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
+### 🌐 Full-Stack Web Applications
 
-<br>
+</div>
 
-<!-- ======================= CONTRIBUTION STREAK ======================= -->
+---
 
-<h2 align="center">🔥 Contribution Streak</h2>
+# 🐍 Contribution Snake
 
-<br>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit8102&theme=tokyonight&hide_border=true"
-  />
-</p>
+<img src="https://raw.githubusercontent.com/Mohit8102/Mohit8102/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-<br>
+</div>
 
-<!-- ======================= ACTIVITY GRAPH ======================= -->
+---
 
-<h2 align="center">📈 Contribution Activity</h2>
+# 🏆 GitHub Trophies
 
-<br>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit8102&theme=tokyo-night&hide_border=true&area=true"
-  />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Mohit8102&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
-<br>
+</div>
 
-<!-- ======================= GITHUB OVERVIEW ======================= -->
+---
 
-<h2 align="center">📌 GitHub Overview</h2>
+# 💻 Current Focus
 
-<br>
+<div align="center">
 
-<p align="center">
+```text
+████████████████████████████████████████  Full-Stack Development
 
-<img src="https://img.shields.io/github/repo-count/Mohit8102?style=for-the-badge&logo=github&label=TOTAL%20REPOS" />
+██████████████████████████████████░░░░░░  Java
 
- 
+████████████████████████████░░░░░░░░░░░░  React
 
-<img src="https://img.shields.io/github/stars/Mohit8102?style=for-the-badge&logo=github&label=STARS%20EARNED" />
+████████████████████████████████░░░░░░░░  Node.js
 
- 
+██████████████████████████░░░░░░░░░░░░░░  Cybersecurity
+```
 
-<img src="https://img.shields.io/github/followers/Mohit8102?style=for-the-badge&logo=github&label=FOLLOWERS" />
+</div>
 
-</p>
+---
 
-<br>
+# ⚡ Fun Fact
 
-<!-- ======================= CONTRIBUTION GRAPH ======================= -->
+<div align="center">
 
-<h2 align="center">💻 Contribution Graph</h2>
+### `while(alive) { learn(); build(); repeat(); }`
 
-<br>
+<br/>
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/0e75b6/Mohit8102"
-    alt="Mohit Kumar GitHub Contribution Graph"
-  />
-</p>
+**"Code → Build → Break → Fix → Learn → Repeat 🔥"**
 
-<br>
+</div>
 
-<!-- ======================= TROPHIES ======================= -->
+---
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Mohit8102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"
-  />
-</p>
+### ⭐ Thanks for visiting my profile!
 
-<br>
+**Let's build something awesome together 🚀**
 
-<!-- ======================= CONNECT ======================= -->
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<br>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/mohit-kumar-5a90703b0">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-</a>
-
-   
-
-<a href="https://instagram.com/__mohit82">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45" />
-</a>
-
-   
-
-<a href="https://discord.gg/KgeCzhqZf">
-  <img src="https://skillicons.dev/icons?i=discord" width="45" />
-</a>
-
-   
-
-<a href="https://github.com/Mohit8102">
-  <img src="https://skillicons.dev/icons?i=github" width="45" />
-</a>
-
-</p>
-
-<br>
-
-<!-- ======================= FOOTER ======================= -->
-
-<h2 align="center">💡 Developer Mindset</h2>
-
-<p align="center">
-  <i>"First make it work. Then make it better."</i>
-</p>
-
-<br>
-
-<p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-  <br>
-  <sub>Feel free to explore my repositories and projects.</sub>
-</p>
+</div>
