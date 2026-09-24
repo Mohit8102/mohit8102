@@ -65,7 +65,7 @@ const mohit = {
 
 ---
 
-# 🌐 onnect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
