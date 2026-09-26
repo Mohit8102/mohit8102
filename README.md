@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About me
 
 ```javascript
 const mohit = {
