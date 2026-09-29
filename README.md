@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **The Mohit Kumar**
+# 👋 Hi, I'm **Mohit Kumar**
 
 ### 🚀 Full-Stack Developer | Java Learner | Builder
 
